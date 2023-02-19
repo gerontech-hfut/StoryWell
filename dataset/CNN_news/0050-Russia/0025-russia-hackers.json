@@ -1,0 +1,31 @@
+{
+ "title": "It looks like Russia and smells like Russia ... but is it Russia?",
+ "url": "http://money.cnn.com/2014/10/31/technology/security/russia-hackers/index.html",
+ "time": "Oct 31, 2014",
+ "paragraphs": [
+  "It's easy to say Russians are hacking the White House and major U.S. companies. It's harder to prove it.",
+  "When cybersecurity firms and U.S. government officials attribute attacks to the Russian government -- or independent hackers operating with Kremlin approval -- the typical evidence they use is pretty circumstantial: A computer virus was written in Russian, created during Moscow working hours and aimed at anti-Russian targets.",
+  "But the digital realm isn't like the physical one. Hard evidence seldom exists.",
+  "Hackers remain anonymous by masking their location, bouncing their computer signals around the world. Hackers who speak one language can write malicious code in another. And they customarily work at odd hours anyway.",
+  "\"They're just indicators. You never know for sure,\" said Rick Howard, chief security officer of cybersecurity firm Palo Alto Networks (PANW). \"There isn't going to be a smoking gun.\"",
+  "Still, Russia was blamed for recently hacking JPMorgan, attacking oil and gas companies and placing a \"digital bomb' in the Nasdaq.",
+  "C. Thomas, a longtime hacker known as \"Space Rogue\" who has testified before Congress on computer security, warns against coming to unshakable conclusions.",
+  "\"Attribution is almost impossible to do,\" he said. \"Anything can be faked. People who do this stuff for a living -- and their lives depend on it -- will forge that stuff.\"",
+  "For instance, American, British, French, Israeli and Russian cyberspies have been known leave decoys that make attacks appear to come from elsewhere, according to several cybersecurity experts with related military experience. Only Chinese hackers have the reputation of being carelessly \"loud.\" FBI Director James Comey recently compared Chinese hackers to a \"drunk burglar.\"",
+  "Even the U.S. National Security Agency has a difficult time identifying attackers. For example, President Obama was left without answers from top intelligence advisers when he asked who hacked JPMorgan (JPM), according to The New York Times.",
+  "Related: Welcome to the Age of Hacks",
+  "So how do you solve hacking whodunnits? It takes some very careful forensics.",
+  "Identify the architects: Hacking uses software as a weapon. It gets built piece by piece, like a bomb. And just like a crime scene, security analysts pull apart fragments to unmask the makers.",
+  "The average hack relies heavily on \"off-the-shelf\" tools that are commonly available in the darker corners of the Web, analysts say. But worming your way into a particular computer network requires some custom tools. Hacking groups tend to have a particular, identifying style when building their malware.",
+  "Note the timing of the attack: Shortly after the United States imposed sanctions on Russia over its aggression in Ukraine, U.S. and European banks were hit with an unprecedented wave of cyberattacks.",
+  "Cybersecurity firm Trend Micro (TMICY), which monitors a smart detection network of nearly 110 million devices, saw its network light up like wildfire on on July 24.",
+  "\"There was a surge of hundreds of thousands of attacks that just target financial institutions,\" said Tom Kellerman, Trend Micro's chief cybersecurity officer. \"And not just by one or two hacking crews, but by dozens of them.\"",
+  "Consider the victims: Friends don't attack friends.",
+  "For example, Kellerman said: \"Chinese hackers don't hack banks. The Chinese own the financial sector. You don't hack the banks you own. It doesn't make geopolitical sense.\"",
+  "In another case, which featured the hacking group \"SandWorm Team\" identified by intelligence firm iSight Partners, the targets included the Ukrainian government and a U.S. scholar who consulted on the Ukrainian conflict. The common denominator: All were deemed unfriendly to Russia.",
+  "The bait used to hack them matters too. Ukrainian government employees were lured into downloading a PowerPoint that claimed to be a list of Pro-Russian separatists.",
+  "Go with your gut: In the end, though, to blame Russia for a cyberattack is to make a bet: Nobody would go this far to create such a convincing decoy. The simplest explanation is the most probable one, said Dave Aitel of security software provider Immunity.",
+  "So, it's always a guess -- a really good guess -- but still a guess.",
+  "CNNMoney is investigating recent hacks. Have you had money stolen from your bank account? Has someone stolen your identity? Share your story."
+ ]
+}

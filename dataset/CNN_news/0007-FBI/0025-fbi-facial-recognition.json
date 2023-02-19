@@ -1,0 +1,26 @@
+{
+ "title": "FBI launches a face recognition system",
+ "url": "http://money.cnn.com/2014/09/16/technology/security/fbi-facial-recognition/index.html",
+ "time": "Sep 17, 2014",
+ "paragraphs": [
+  "The FBI can now quickly identify people just by looking at their faces. Coming soon: eyes, voice, palm print and walking stride.",
+  "It's called the FBI's Next Generation Identification system, and the agency said it became fully operational Monday. The government expects the system's database to house 51 million photographs by next year -- and keep growing.",
+  "But it's not just for the FBI. Police everywhere will be able to tap into the system. They'll quickly ID fingerprints during a routine traffic stop -- or look up a face while investigating a crime.",
+  "Hawaii, Maryland and Michigan took part in the NGI system's pilot program, documents show. A dozen others including California, Florida and New York have discussed participation in the program as well, according to the Electronic Frontier Foundation.",
+  "By 2015, the system is expected to produce results on more than 55,000 photo searches every day. Facial recognition is only expected to be used in just a small portion of those searches. Police nationwide are expected to use it 196 times a day, government documents show.",
+  "There are several ways your photo could end up in this massive, one-of-a-kind human tracker. Police agencies can submit your post-arrest mug shot, video feed from a security camera, or photos from your family and friends.",
+  "But the FBI database will also keep photos that it receives when conducting background checks, which it does for lots of private sector and government job candidates.",
+  "Related story: How the NSA can 'turn on' your cell phone remotely",
+  "Surprised the FBI didn't have this before? It actually had a limited, low-tech version that only stored fingerprints. But that old system was slow to respond. Police who took fingerprints from people they arrested would wait two hours for a response from the FBI's database. The new wait time? 10 minutes. And the 24-hour wait for employers performing background checks is now down to 15 minutes.",
+  "The NGI system, which started as a pilot program in 2009, was designed by defense contractor Lockheed Martin (LMT) in a deal worth up to $1 billion. The facial recognition software was built by MorphoTrust, a Billerica, Massachusetts-based company that already does the biometric scans at 450 U.S. airports and DMVs in 42 states.",
+  "The fingerprint features of the system are meant to help police officers identify suspects in real time. Facial recognition is meant to help detectives identify suspects using clues at crime scenes.",
+  "But it's already a major privacy concern, because of its potential to relentlessly track innocent people. The Electronic Frontier Foundation has sued the Justice Department to get details on the program, but questions remain.",
+  "For example, the FBI said it will gather data from security cameras at a crime scene. But does that include the estimated 30 million surveillance cameras installed at street corners and parks?",
+  "If the FBI information slide below is any indication, the FBI is interested in using NGI system to identify a random person in a crowd -- and track them as they move, said EFF attorney Jennifer Lynch. That's why the Electronic Privacy Information Center worries the NGI system will get integrated with CCTV cameras everywhere -- including at private businesses -- and let the government track folks without justification.",
+  "To that point, the FBI has already mentioned it will store all photos -- even those with faces it can't immediately pinpoint -- for later identification.",
+  "However, there are a few ground rules cited in FBI documents:",
+  "NGI isn't just about cameras, though. The system is also designed to alert police if someone \"holding positions of trust,\" such as a school teacher, has run-ins with the law.",
+  "And the identification system isn't limited to your face. The system is able to spot and search for scars, tattoos, birth marks. FBI documents show the agency built the system to accommodate for future collection of biometric data.",
+  "If and when our eyeballs, voices and walking style are recorded and categorized, the system will be able to uniquely identify a person that way too."
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "title": "Twitter apologizes for worldwide outage",
+ "url": "https://www.cnn.com/2012/07/26/tech/twitter-outage/index.html",
+ "time": "Jul 27, 2012",
+ "paragraphs": [
+  "Social networking site Twitter apologized for a worldwide outage Thursday that left the site inaccessible for more than an hour. It blamed the outage on a technical fault and said that despite speculation, it wasn’t related to the London Olympics, which open Friday.",
+  "“We are sorry,” Twitter’s vice president of engineering, Mazan Rawashdeh, wrote in a blog post Thursday night. “Many of you came to Twitter earlier today expecting, well, Twitter. Instead, between around 8:20 a.m. and 9:00 a.m. PT, users around the world got zilch from us. By about 10:25 a.m. PT, people who came to Twitter finally got what they expected: Twitter.”",
+  "He blamed the outage on the concurrent failure of two data centers. When one fails, a parallel system is designed to take over – but in this case, the second system also failed, he said.",
+  "Some Twitter users speculated heavy traffic from the upcoming Olympics was to blame, but Rawashdeh said the cause was simply an “infrastructural double-whammy.”",
+  "Users of the site joked that they couldn’t complain on Twitter that Twitter was down. Others said they were forced to tweet on Facebook.",
+  "“When Twitter goes down you’d think I would get more done. Turns out I just keep checking if it is back up again,” wrote David Smith of Washington.",
+  "Tweeted Jason Carlin of Toronto: “Took time during the Twitter outage to explore some self-improvement. I’ve written two novels, learned Esperanto, and knitted a sweater.”",
+  "And from satirist Andy Borowitz: “You learn a lot when Twitter is down. For example, my wife left me four years ago.”"
+ ]
+}

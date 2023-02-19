@@ -1,0 +1,19 @@
+{
+ "title": "Twitter rolls out more anti-harassment measures -- like automating Twitter jail",
+ "url": "http://money.cnn.com/2017/03/01/technology/twitter-anti-harassment-updates/index.html",
+ "time": "Mar 01, 2017",
+ "paragraphs": [
+  "Twitter continues to try to be a nicer place to tweet.",
+  "New updates announced on Wednesday aim to limit the visibility of abusive posts, and will automatically block the spread of harmful content. Twitter (TWTR) is also expanding the mute and filter features, and will now notify users when the company takes action on harassment they reported, even if it's not directed at them.",
+  "Twitter is implementing tools that can automatically identify patterns in the way harmful tweets are made and distributed. If it identifies a harmful account, it will truncate the user's visibility.",
+  "For instance, if a user routinely replies to accounts that don't follow it, or repeatedly violates Twitter's rules, Twitter might make it so that the tweets are invisible to everyone except the user's followers for a set amount of time. Twitter users who have already experienced this in tests are calling it \"Twitter jail.\"",
+  "Twitter declined to give more details on what exact behaviors might trigger the algorithm and temporarily ban an account's reach, because they don't want people to find workarounds. A spokeswoman confirmed that it could potentially reflect harassment trends beyond obvious trigger words.",
+  "Some people use seemingly innocuous emoji or punctuation to harass people, like the frog emoji or triple parentheses ((())) to signify anti-Semitism.",
+  "Related: The year in harassment: 2016 sunk lower than rock bottom",
+  "Filtering options on the notifications page are also improving -- you will be able remove accounts that don't have a profile photo, or those that have unverified email addresses or phone numbers. Twitter users can also now mute words or conversations right from their timeline for a set amount of time.",
+  "The new filtering could help get rid of the bad egg problem in people's mentions. Harassers and spammers are frequently called \"Twitter eggs\" because the of the default white egg avatar. \"Twitter egg\" is now used as an insult referencing this phenomenon.",
+  "As Twitter continues to try to weed out bad actors, it's repeatedly criticized for its lack of transparency around communicating when and why (or why not) people get banned. It's trying to improve that process -- users who report violations of Twitter's rules will be alerted in their notifications tab when the safety team reviews it and will be informed if further action is taken.",
+  "However, the notification text will only note whether an account was found to be in violation of rules.",
+  "Twitter has long been criticized for letting bullies, racism and misogyny proliferate on the site. The latest updates are part of the company's ongoing efforts to address harassment. Last month, it introduced a handful of new features, including steps to prevent serial abusers from creating new accounts."
+ ]
+}
