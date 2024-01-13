@@ -1,0 +1,6 @@
+{
+ "tweet": "Jets Model Rigging Debrief 1: Single Responsibility Movement Parameters on Augmented Angles in #Live2D !\n\nIn summary, it allows us to compartmentalize movement params to make it easier for us in the long run to fine tune movement without editing a lot of deformers.\n\n1/8",
+ "time": "12月30日",
+ "fetchTime": "2022-12-31T22:57:05.740Z",
+ "replies": []
+}
